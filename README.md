@@ -6,6 +6,6 @@ Projeto realizado no Tinkercad em C++ para desenvolver o jogo Genius com Arduín
 - Componentes Elétricos
 - Lógica de Programação em C++
 # Acesse o projeto no TinkerCAD
-https://www.tinkercad.com/things/bBK1SUiRnVm-buzzer
+https://www.tinkercad.com/things/4orhBCnumLH-jogo-genius
 
 
